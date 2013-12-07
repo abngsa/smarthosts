@@ -1,4 +1,4 @@
-#UPDATE:2013-07-07 21:01
+#UPDATE:2013-12-07 12:16
 
 127.0.0.1	localhost
 #SmartHosts START
@@ -531,9 +531,9 @@
 203.208.46.222	www.googlesource.com
 173.194.37.99	www.panoramio.com
 
-203.208.46.200	plus.google.com
-203.208.46.200	plus.url.google.com
-203.208.46.200	plusone.google.com
+173.194.126.128	plus.google.com
+173.194.126.128	plus.url.google.com
+173.194.126.128	plusone.google.com
 #Google Services END
 
 
