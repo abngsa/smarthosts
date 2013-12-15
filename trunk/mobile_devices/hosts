@@ -1,4 +1,4 @@
-#UPDATE:2013-11-22 11:47
+#UPDATE:2013-12-15 20:36
 
 127.0.0.1	localhost
 
@@ -6,7 +6,6 @@
 #Android & Google Services START
 
 173.194.72.84	accounts.google.com
-#173.194.72.84	www.google.com
 203.208.46.200	www.google.com
 
 203.208.46.200	appengine.google.com
@@ -102,7 +101,7 @@
 203.208.46.200	www3.l.google.com
 
 203.208.46.200	clients2.google.com
-#203.208.46.200	android.clients.google.com
+#74.125.200.100	android.clients.google.com
 203.208.46.200	android.l.google.com
 203.208.46.200	m.google.com
 
@@ -225,13 +224,6 @@
 203.208.46.170	wenda.google.com.hk
 203.208.46.170	www.google.com.hk
 
-# Ingress
-173.194.75.141	betaspike.appspot.com
-173.194.75.141	m-dot-betaspike.appspot.com
-173.194.76.128	static.panoramio.com
-173.194.37.99	panoramio.com
-173.194.37.99	www.panoramio.com
-
 74.125.31.190	ssl.google-analytics.com
 74.125.31.190	www.googlelabs.com
 173.194.73.141	chrometophone.appspot.com
@@ -263,6 +255,18 @@
 #203.208.46.170	r21---pek01s02.c.android.clients.google.com
 
 #Google Services END
+
+
+
+#Ingress START
+
+173.194.75.141	betaspike.appspot.com
+173.194.75.141	m-dot-betaspike.appspot.com
+173.194.76.128	static.panoramio.com
+173.194.37.99	panoramio.com
+173.194.37.99	www.panoramio.com
+
+#Ingress END
 
 
 #Facebook Start
