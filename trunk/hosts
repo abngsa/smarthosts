@@ -1,7 +1,23 @@
-#UPDATE:2013-12-07 12:16
+#UPDATE:2014-09-06 05:19
+#!!!!!!!TEST VERSION, DO NOT UPDATE PLEASE!!!!!!!!#
 
 127.0.0.1	localhost
 #SmartHosts START
+
+##ClientData BEGIN##
+##CatA=[203.208.46.200]
+##CatB=[203.208.46.221,203.208.46.213]
+##CatC=[203.208.46.202]
+##CatD=[173.194.70.125]
+##CatE=[203.208.46.207] 
+##CatF=[203.208.46.170]
+##CatG=[173.194.126.128]
+
+##Rep*=[178.45.251.59,178.45.251.101,203.116.165.150] //Russia
+##Setting_CheckCertAvailability=No
+##Setting_DownloadIPList=Yes
+##ClientData END##
+
 
 #Google Services START
 
